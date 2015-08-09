@@ -1,0 +1,15 @@
+{
+  "name": "mobileactive/yii2-mobak",
+  "description": "Yii2 component for Mobile Active HTTP XML API",
+  "keywords": ["yii", "extension", "sms"],
+  "type": "yii-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mobile Active LLC"
+    }
+  ],
+  "require": {
+    "grigorieff/mobak-php-sdk-xml": "1.*"
+  }
+}
