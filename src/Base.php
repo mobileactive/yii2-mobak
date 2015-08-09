@@ -2,7 +2,7 @@
 
 namespace Mobak\yii2;
 
-use Mobak;
+use mobak\Mobak;
 use yii\base\Component;
 use yii\base\InvalidConfigException;
 
