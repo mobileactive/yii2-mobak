@@ -1,6 +1,6 @@
 <?php
 
-namespace Mobak\yii2;
+namespace mobak\yii2;
 
 use mobak\Mobak;
 use yii\base\Component;

@@ -31,7 +31,7 @@ php composer.phar require --prefer-dist mobileactive/yii2-mobak "1.*"
         .........
 
         'sms' => [
-            'class' => mobileactive\yii2\Base,
+            'class' => mobak\yii2\Base,
             'login' => 'ВАШ_ЛОГИН',
             'password' => 'ВАШ_ПАРОЛЬ'
         ],
